@@ -1,0 +1,8 @@
+<fragment xmlns:android="http://schemas.android.com/apk/res/android"
+          xmlns:tools="http://schemas.android.com/tools"
+          android:id="@+id/fragment"
+          android:name="test.com.simplebutton.SimpleButtonActivityFragment"
+          tools:layout="@layout/fragment_simple_button"
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"/>
+<!-- From: file:/home/laetitia/Projects/GitHub%20Projects/SimpleButton/app/src/main/res/layout/activity_simple_button.xml -->
